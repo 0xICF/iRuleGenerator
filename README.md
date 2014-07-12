@@ -122,5 +122,9 @@ GPL v3
 
 References
 -
-http://0xicf.wordpress.com
+http://0xicf.wordpress.com/irulegenerator/
+
+https://github.com/0xICF/iRuleGenerator
+
+
 
