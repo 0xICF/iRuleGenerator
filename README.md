@@ -68,12 +68,12 @@ iRuleGenerator includes different iRules templates that designed for different t
 
 Change log
 -
-May 28, 2014 - iRuleGenerator v1.1
+######May 28, 2014 - iRuleGenerator v1.1
 
 •	11 New iRule templates has been added
 
 
-May 11, 2014 - iRuleGenerator v1.0.1 Beta
+######May 11, 2014 - iRuleGenerator v1.0.1 Beta
 
 •	10 New iRule templates has been added
 
