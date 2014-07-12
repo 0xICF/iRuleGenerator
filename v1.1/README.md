@@ -19,7 +19,9 @@ You can generate a dynamic ready to use iRule in seconds by:
 
 iRuleGenerator provides a useful and simple way to manage and submit a new iRule templates in a shared database.
 
-iRuleGenerator includes wide range of iRules templates that designed in order to help security experts to handle different tasks in F5 Networks Big IP platform. The templates collected from DevCentral, other blogs and online resources:
+iRuleGenerator includes wide range of iRules templates that designed in order to help security experts to handle different tasks in F5 Networks Big IP platform. 
+
+The templates collected from DevCentral, other blogs and online resources:
 
 •	20linesorless - Colin's 20 Lines or Less Blog Series
 
