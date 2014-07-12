@@ -9,7 +9,7 @@ However, many times these tasks combines a customization of an iRule templates t
 iRuleGenerator allows to F5 Networks Security Experts, Response teams and Customers to generate iRule templates rapidly and base on their needs.
 
 You can generate a dynamic ready to use iRule in seconds by:
-+
+=
 1.	selecting an iRule template from a database
 
 2.	customizing a dynamic parameters
