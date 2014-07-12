@@ -5,10 +5,10 @@ Description:
 A toolbar that helps F5 Networks support engineers, response teams and customers to generate iRule templates rapidly.
 
 Version: 
-v1.0.1 Beta
+v1.1
 
 Date: 
-May 11, 2014
+May 28, 2014
 
 Author: 
 Eran Goldstein 
