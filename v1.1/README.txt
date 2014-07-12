@@ -5,7 +5,7 @@ Description:
 A toolbar that helps F5 Networks support engineers, response teams and customers to generate iRule templates rapidly.
 
 Version: 
-v1.0.1 Beta
+v1.1
 
 Date: 
 May 28, 2014
@@ -17,7 +17,7 @@ Powered by:
 Frogteam-Security Ltd.
 
 License: 
-2014 (C) All rights reserved to Frogteam-Security Ltd.
+GPL v3 2014 (C) All rights reserved to Frogteam-Security Ltd.
 
 Author's comment:
 If you have suggestions, contribution request, or feedback of any kind,
