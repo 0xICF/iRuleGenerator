@@ -1,4 +1,4 @@
-![Alt text](https://0xicf.files.wordpress.com/2014/06/banner.jpg "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
+![Alt text](http://0xicf.files.wordpress.com/2014/07/4.png?w=676&h=329 "iRuleGenerator :: Add-ons for Firefox ")
 
 
 iRuleGenerator
@@ -78,8 +78,17 @@ May 11, 2014 - iRuleGenerator v1.0.1 Beta
 Screenshots
 - 
 
-![Alt text](https://0xicf.files.wordpress.com/2014/06/beedos.jpg "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
+![Alt text](http://0xicf.files.wordpress.com/2014/07/1.png?w=676&h=196 "Diagram 1.0 – Clicking the iRuleGenerator (“F5 Networks” logo) button in Mozilla Firefox web browser ")
 
+![Alt text](http://0xicf.files.wordpress.com/2014/07/2.png?w=676&h=214 "Diagram 1.1 – iRuleGenerator opened in Mozilla Firefox web browser ")
+
+![Alt text](http://0xicf.files.wordpress.com/2014/07/3.png?w=676&h=330 "Diagram 1.2 – Clicking the “Enable iRule Clipboard” button to view the iRule Clipboard ")
+
+![Alt text](http://0xicf.files.wordpress.com/2014/07/4.png?w=676&h=329 "Diagram 1.3 – Selecting an iRule template from iRuleGenerator menu ")
+
+![Alt text](http://0xicf.files.wordpress.com/2014/07/5.png?w=676 "Diagram 1.4 – Specifying iRule parameters in the popup window that opened ")
+
+![Alt text](http://0xicf.files.wordpress.com/2014/07/6.png?w=676&h=421 "Diagram 1.5 – Viewing the result in iRule Clipboard window ")
 
 
  
