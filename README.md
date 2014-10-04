@@ -41,7 +41,7 @@ Big thanks to Colin Walker for his great work with 20linesorless and to the othe
 
 Download
 -
-https://github.com/0xICF/iRuleGenerator/archive/v1.1.zip
+https://github.com/0xICF/iRuleGenerator/archive/master.zip
 
 
 
